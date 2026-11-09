@@ -1,0 +1,5 @@
+{
+  "algorithm": "AES-128-GCM",
+  "nonce": "24cadc05b99ee53f82921a29",
+  "ct": "9ce97438a3ac06deed68527eb7128d7d2ebab7646792b70d13dfe660db2f8e82e5a2c39488acb6fb7ce3a96ce5aa22f942643bd25095dde11099875771fb2f95"
+}

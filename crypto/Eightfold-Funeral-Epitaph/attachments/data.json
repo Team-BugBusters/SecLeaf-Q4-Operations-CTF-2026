@@ -1,0 +1,120 @@
+{
+  "format": "Eightfold Funeral: Epitaph / v7",
+  "calibration": [
+    {
+      "input": "fd7164f7b45ffd6ba20ee",
+      "stamp": "7ed02a472c6f51a15b936"
+    },
+    {
+      "input": "50266b684917fa1d4f5a3",
+      "stamp": "bbf49381a566867ef9896"
+    },
+    {
+      "input": "122f7d355cbacb3f7f682",
+      "stamp": "18c1f92476ece31f97252"
+    },
+    {
+      "input": "552cce9ee03ffc8becb3b",
+      "stamp": "97b94a86a8b3e1f190674"
+    },
+    {
+      "input": "8945c655efe7ee49a2e64",
+      "stamp": "3da0867a08b37a3e2b0ec"
+    },
+    {
+      "input": "277d0735b47a10aa7a886",
+      "stamp": "79f37efeed8f85825155c"
+    },
+    {
+      "input": "f31d787560ac1c04c01d3",
+      "stamp": "9aefaefbb52ee1f891398"
+    },
+    {
+      "input": "49c75c2e6a6ade1a585ab",
+      "stamp": "12955af457b2c7ea822dc"
+    },
+    {
+      "input": "a6bb8cf1b5b3351007703",
+      "stamp": "6afaff5d96684d53ccd15"
+    },
+    {
+      "input": "ac434022dcba902ed8d7f",
+      "stamp": "1d962ba333109559ce2d3"
+    },
+    {
+      "input": "661b871fd985206d1bbf8",
+      "stamp": "c2c28fc4d9d1eb7307240"
+    },
+    {
+      "input": "ed1336828fe3d8dac03ff",
+      "stamp": "0ea2b539b8d0aeb1bd351"
+    },
+    {
+      "input": "2295b51daa26b2e629624",
+      "stamp": "d3c0bbbce57034e8e1f15"
+    },
+    {
+      "input": "7817bec03813f3ee8f648",
+      "stamp": "1b74bddbd315258a6ca32"
+    },
+    {
+      "input": "182f5cf470d9f562527d2",
+      "stamp": "e563a099f2e5541530398"
+    },
+    {
+      "input": "c15bdc70d03f7a84302ca",
+      "stamp": "2ed8ff13f919499062679"
+    },
+    {
+      "input": "6ba6cff0909e32e45ed5d",
+      "stamp": "8656d6e5034dbd9b6c3fe"
+    },
+    {
+      "input": "b7fcd440c5ae3e2042447",
+      "stamp": "4b9cc195539ccc2bcb772"
+    },
+    {
+      "input": "618be476892942d7ff24c",
+      "stamp": "a570598592ec4abfd2e07"
+    },
+    {
+      "input": "3cccfaa374920179663ed",
+      "stamp": "b50867293da584e388469"
+    },
+    {
+      "input": "d3c28b51cf36c6032bdd5",
+      "stamp": "895d548705c1ae24671fd"
+    },
+    {
+      "input": "83fbf64c3ab80ae800372",
+      "stamp": "eba3b713e155026e899f9"
+    },
+    {
+      "input": "549055aec55b276f9d273",
+      "stamp": "3c7f419d82489526f9a4a"
+    },
+    {
+      "input": "2bbc67cb0e74c2f9b239e",
+      "stamp": "9aa58d9501f7158dee619"
+    },
+    {
+      "input": "66d340cb554ce8549356f",
+      "stamp": "886141f7dbecf4f475225"
+    }
+  ],
+  "lane_stamps": [
+    "dc76dcab042c72b9646c3",
+    "c56796cec87e746ac1913",
+    "df673209289ee10eb124a",
+    "8e705c9c7cd258824eb7a",
+    "57757d237a770c36340ba",
+    "c6d8e1582e2cbec6c3fd8",
+    "f0fd6480ef95292844822",
+    "5b5a0d42daaad2d411d0b"
+  ],
+  "target_stamp": "5a3a43903e80dd7b64d3d",
+  "capsule": {
+    "nonce": "f829357dfebda4d8bd3b7495",
+    "ct_tag": "9f0497f24de5e9311cec1ad318497d2d0f3b6fe77cedb8ab2f517db9583e23501908a94ad8d095ac1602c6b24215e99ccabeb00aafd1ff80d47a03"
+  }
+}

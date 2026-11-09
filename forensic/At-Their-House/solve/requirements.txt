@@ -1,0 +1,2 @@
+
+py7zr  # optional: reads lock.exe from Box-1234.7z for the cross-check

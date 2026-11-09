@@ -1,0 +1,68 @@
+{
+  "curve": "secp256k1",
+  "public_key": [
+    "0xe2561c6009d76b813e9f7d68b52afd6367acb47b52b698167c7e51730b3d5470",
+    "0xdcaa09bb36c8aaf9ef80837103fce068379efa76ac1fef125accfca737c007b6"
+  ],
+  "records": [
+    {
+      "message": "SecLeaf telemetry leaf 00",
+      "r": "0xf574758448f3a594195a5f2ca4740ff4cbf481b1d506456b6845846b9d3833f3",
+      "s": "0x1ffdc4cb79103a1a2d3a36f26ff08bc0ba3cba0c54cd03803329cbb2deb81e17"
+    },
+    {
+      "message": "SecLeaf telemetry leaf 01",
+      "r": "0x25c7d546adc1ef0ab2cd459fade053f28de3233bcbd7bcd5585fc4bc98ac2132",
+      "s": "0x549cbbc53279e9f1504d0b11883b62d3d476d95847d68e4685d6b2f27d376fe1"
+    },
+    {
+      "message": "SecLeaf telemetry leaf 02",
+      "r": "0x32e6c74fce32e11d964ac7565770584bec2d286188e5bd0d27184c4dd6fca6c6",
+      "s": "0xb8ad0d5452cdea491f5151d7fc83ecaf0a4d9b20cee0c87fd6edeffcdb1a2074"
+    },
+    {
+      "message": "SecLeaf telemetry leaf 03",
+      "r": "0x993205298cc6ee338bf4021111848cf9fe30a4ccf39e893e87250d2b1c0b56f6",
+      "s": "0x680c4be25c6329097160255eca529af0ecc595c230ca3250e9d372fbe4b1efd6"
+    },
+    {
+      "message": "SecLeaf telemetry leaf 04",
+      "r": "0x4a47f49c38c3753f0cad7c50dc09a1828dfa63f051ff1ba0885dba126c781b02",
+      "s": "0x387a3bc8fd8c74b1bc71516265106fd04b75ee6b67771e5c8b6db70516985cd0"
+    },
+    {
+      "message": "SecLeaf telemetry leaf 05",
+      "r": "0xdda206b6e195a3836e366f2cb5fa32520be930b8e80feafa4c9bb9ea43a1c991",
+      "s": "0x1e1e5436d1889a6d38490d7f5c3b6c6b96fcb00c0a0b2fdd3faf497afeeb0628"
+    },
+    {
+      "message": "SecLeaf telemetry leaf 06",
+      "r": "0x215606b2efab69430a2295412513f239659cac3f3a647b70b609ec3d89f0b111",
+      "s": "0xa1097bb5a2c51e7a3b4725d1c834ebf65e00adf38a248a46bbe2e838990ad29d"
+    },
+    {
+      "message": "SecLeaf telemetry leaf 07",
+      "r": "0xda1193a4f6069cedc4c2b49faba41d70ae652ab7ad6c3681fb65d5888d079df1",
+      "s": "0xfdb4e4f3da6f485bdada205027e8fc7f049e2d72ebb28c2d61a72dd24e1ff46d"
+    },
+    {
+      "message": "SecLeaf telemetry leaf 08",
+      "r": "0x7eea883fdc33fcc43bddac6bdc4592b607cd2dd3dff9e1221d667e1f14f33958",
+      "s": "0xab40c5e39b5763a834b8dabd7bc891b9ef0900b47b5f16b9ae7f32e8c9e72b4c"
+    },
+    {
+      "message": "SecLeaf telemetry leaf 09",
+      "r": "0x9f801a9a5d341b6ce918f2dd4f1b43efb9fd85f7043317e3a29b18068ae6ac8",
+      "s": "0xa3380bccb5cb53d5f5f4e3a0ff15797805e64d764fac558cf17026ffc02c23da"
+    },
+    {
+      "message": "SecLeaf telemetry leaf 10",
+      "r": "0x65b2a355b17e37499f2c86fe06709bfb1b09472fa5341c3d2195669a2264d0d",
+      "s": "0x3a6dd2490f4899f77f0295f711ae005fd61a4cb880162f8cfb31d197b9c150b3"
+    }
+  ],
+  "sealed": {
+    "nonce": "293913b75cab1570ef4929fb",
+    "ct": "05d4c88968ff68b107b8886f395e9392357144c514b978c128c272e637b64426ef4e28f76f37754ef632553357c963b0323b7a6a21"
+  }
+}
